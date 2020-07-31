@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.green-bg{
+    background: #F0FFF0;    
+}
+.Get-Started-btn{
+    background-color: #21B573;
+    padding: 8px 25px;
+    color: white;
+    border: none;
+    border-radius: 33px;   
+}
+.col-md-7 img{
+    padding-bottom: 50px;    
+}
+.mar-bottom{
+    margin-bottom: 50px;
+}
+.container h1{
+    font-weight: 700;
+}
+.green-highlight{
+    color: #21B573;
+}
+.red{
+    color: #FD511A;
+}
+.course-overview{
+    margin-top: 50px;
+}
+.course-overview img{
+    width: 100px;    
+}
+h4{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+}
+h2{
+    font-weight: bold;
+    color: #413960;    
+}
+.txt-align{    ;
+    text-align: center;
+    margin: 70px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 10px;
+}
+.footer-item img{
+    width: 40px;
+}
+.blog img{
+    width: 120px;    
+}
+.blog{
+    max-width: 700px;
+}
+.dark-bg{
+    background-color: #282531;
+    margin-top: 100px;
+}
+.txt-color{
+    color: white;
+}
+h6{
+    color: white;
+    font-weight: bold;
+}
+.item-align1, .item-align2, .item-align3, .item-align4{
+    padding: 50px 70px 50px 50px;    
+}
+.copyright{
+    text-align: center;
+    margin-bottom: 20px;
+}
